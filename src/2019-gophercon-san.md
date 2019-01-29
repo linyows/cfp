@@ -62,4 +62,4 @@ Tags | legacy, mutable infrastructure, deployment, go application, CI/CD
 Bio
 --
 
-Tomohisa is a software developer based in fukuoka, Japan.
+Tomohisa is a software developer based in fukuoka, Japan. We organized golang community in fukuoka.
