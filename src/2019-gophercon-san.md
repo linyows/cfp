@@ -53,6 +53,8 @@ Note
 Meta
 --
 
+subject | contet
+--- | ---
 Talk Format | Keynote 25minutes
 Audience Level | Intermediate
 Tags | legacy, mutable infrastructure, deployment, go application, CI/CD
